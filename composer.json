@@ -1,5 +1,5 @@
 {
-  "name": "Ioprst/yii2-blog",
+  "name": "ioprst/yii2-blog",
   "description": "Advanced Yii2 blog module, posts, categories, tags, comments, books, SEO, social plugins, Slider Revolution e.t.c.",
   "type": "yii2-extension",
   "keywords": [
