@@ -27,7 +27,7 @@
     "yiisoft/yii2": "*",
     "yiisoft/yii2-bootstrap4": "*",
     "diazoxide/yii2-revslider": "*",
-    "diazoxide/yii2-infinite-scroll": "dev-master",
+    "diazoxide/yii2-infinite-scroll": "*",
     "2amigos/yii2-ckeditor-widget": "dev-master",
     "trntv/yii2-aceeditor": "^2.0.0",
     "2amigos/yii2-tinymce-widget": "~1.1",
